@@ -4,4 +4,4 @@ This project seeks to design a model with appropriate feature engineering, that 
 
 The main purpose of the data set's recording is to be able to model the rotor temperatures of a permanent magnet synchronous motor (PMSM) in real-time. Due to the intricate structure of an electric traction drive, direct measurement with thermal sensors is not possible for rotor temperatures, and even in case of the stator temperatures, sensor outage or even just deterioration can't be administered properly without redundant modeling. In addition, precise thermal modeling gets more and more important with the rising relevance of functional safety. The available features to model the target can be seen below.
 
-![alt text](https://github.com/aber0016/Rotor_Temperature_Regression/blob/main/rec_2.png?raw=true)
+![alt text](https://github.com/aber0016/Rotor_Temperature_Regression/blob/main/hist.png?raw=true)
