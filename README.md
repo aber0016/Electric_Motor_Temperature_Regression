@@ -1,4 +1,4 @@
-# Rotor_Temperature_Regression
+# Electric_Motor_Temperature_Regression
 
 This project seeks to design a model with appropriate feature engineering, that estimates one target temperature rotor temperature ("pm") in a causal manner. In order to maintain real-time capability, model sizes should be as small as possible, while retain a high level of prediction accuracy, as temperature estimation in production will be deployed on best-cost hardware of traction drives in an automotive environment, where lean computation and lightweight implementation is key and crucial.
 
